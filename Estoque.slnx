@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EstoqueAPI/EstoqueAPI.csproj" />
+  <Project Path="EstoqueAPP/EstoqueAPP.csproj" />
+</Solution>
